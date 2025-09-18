@@ -8,7 +8,7 @@ app.use(express.json());
 
 // ✅ Setup Pinecone client
 const pc = new Pinecone({
-  apiKey: "pcsk_3ZJ6wm_Mwk7jmE6cCtypXB9tSgt16jNdfrBPPHAzcdkr5Y16i71RHoXKNdv6eQDGrbzwSr", // set in .env
+  apiKey: process.env.PINECONE_API_KEY, // set in .env
 });
 
 // Reference to your index
@@ -28,7 +28,7 @@ async function insertIntoPinecone({ document, source, title, id }) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer jina_887b92a043214850b1ff64b2da9a1051jDmpw_fES40sziwJRQ35o9f1Crub`
+        'Authorization': `Bearer ${JINA_API_KEY}`, // set in.env
       }
     };
 
