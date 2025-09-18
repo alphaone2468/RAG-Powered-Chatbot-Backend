@@ -1,0 +1,314 @@
+[
+  {
+    "id": "1",
+    "title": "Jack Altman raised a new $275M early-stage fund in a mere week",
+    "document": "The Altman brothers sure have a knack for being venture capitalists. On Tuesday, this especially applied to Jack Altman, co-founder of $3 billion-valuation HR software startup Lattice and brother to OpenAI CEO Sam Altman.\n\nJack Altman just announced a second $275 million fund for his solo-run firm Alt Capital. And from start to finish, it took him a week, he told The Wall Street Journal. His first fund, raised in early 2024, was $150 million, so this is a big step up. He used it to invest in about 20 early-stage companies, he said, including David AI (a YC-alum that does data sets for speech models) and unicorn restaurant software maker Owner.com.\n\nJack is, clearly, well-connected and has founder experience, although he left the CEO role at Lattice in 2024 (he remains chairman). Of course, Sam was famously president of Y Combinator and is still an active angel investor (but not an LP in this new fund, the WSJ reports). Meanwhile, brother Max Altman is a co-founder of Saga Ventures, which raised a $125 million fund of its own in 2024.",
+    "source": "https://techcrunch.com/2025/09/16/jack-altman-raised-a-new-275m-early-stage-fund-in-a-mere-week/"
+  },
+  {
+    "id": "2",
+    "title": "Tesla is recalling Powerwall 2 batteries over fire risk",
+    "document": "Tesla is recalling Powerwall 2 home batteries in Australia after the company received reports of fires that led to 'minor property damage,' according to the Australia Competition and Consumer Commission (ACCC).\n\nThe recall affects an unspecified number of Powerwall 2 units made in the U.S. and sold between November 2020 and June 2022. The cells were made by an unnamed third-party supplier. Despite the fires, no injuries have been reported, the ACCC said in a recall notice.\n\nThe Powerwall 2 contains 14 kWh of lithium ion batteries, and it is usually installed alongside solar panels to store excess power generated during the day.\n\nCustomers can also enroll their batteries in a virtual power plant to support the grid in times of heavy load. Enrolling extends the warranty to up to 15 years and gives customers access to time-of-use rates that will help reduce energy bills, Tesla says.\n\nHomeowners will be notified in the Tesla app if their Powerwall is part of the recall, and the company is in the process of discharging the batteries to reduce the risk of fire. Recalled batteries will be replaced free of charge, and the company 'will consider compensation for lost energy savings … on a case-by-case basis,' the ACCC said.",
+    "source": "https://techcrunch.com/2025/09/16/tesla-is-recalling-powerwall-2-batteries-over-fire-risk/"
+  },
+  {
+    "id": "3",
+    "title": "CodeRabbit raises $60M, valuing the 2-year-old AI code review startup at $550M",
+    "document": "Harjot Gill was running FluxNinja, an observability startup he co-founded several years after selling his first startup Netsil to Nutanix in 2018, when he noticed a curious trend.\n\n'We had a team of remote engineers who were starting to adopt AI code generation on GitHub Copilot,' Gill told TechCrunch. 'We saw that adoption happen, and it was very clear to me that as a second-order effect, it’s going to cause bottlenecks in the code review.'\n\nIn early 2023, Gill started CodeRabbit, an AI-powered code review platform, and it acquired FlexNinja.\n\nGill’s prediction has come true: developers are now regularly using AI coding assistants to generate code, but the output is often buggy, forcing engineers to spend a lot of time on corrections.\n\nCodeRabbit can help catch some of the errors. The business has been growing 20% a month and is now making more than $15 million in annual recurring revenue (ARR), according to Gill.\n\nInvestors find the startup’s growth exciting. On Tuesday, CodeRabbit announced that it raised a $60 million Series B, valuing the company at $550 million. The round, which brought the startup’s total funding to $88 million, was led by Scale Venture Partners with participation of NVentures, Nvidia’s venture capital arm, and returning investors including CRV.\n\nCodeRabbit is helping companies like Chegg, Groupon, and Mercury, along with over 8,000 other businesses, save time on the famously frustrating task of code review, which has become even more time-consuming with the rise of AI-generated code. Since CodeRabbit understands a company’s codebase, it can identify bugs and provide feedback, acting like a coworker, Gill said. He added that companies using CodeRabbit can cut the number of humans working on code-review by half.",
+    "source": "https://techcrunch.com/2025/09/16/coderabbit-raises-60m-valuing-the-2-year-old-ai-code-review-startup-at-550m/"
+  },
+  {
+    "id": "4",
+    "title": "Google rolls out new Windows desktop app with Spotlight-like search tool",
+    "document": "Google announced on Tuesday that it’s launching a new experimental app for Windows that’s designed to help people find what they need faster. The app will allow people to use an Alt + Space shortcut to instantly search for information from their computer files, installed apps, Google Drive files, and the web.\n\nThe search bar works similar to Mac’s Spotlight search, which lets users quickly find anything on their device and on the web.\n\nThe new app is available via Search Labs, Google’s experimental program that lets people test early-stage features and provide feedback before they are broadly released.\n\nGoogle notes that the app has Google Lens built in, which means people can select and search anything on their screen to do things like quickly translate images or text, get help with math homework, and more. Users can also get deeper responses in Google’s AI Mode, its search feature that lets users ask complex, multipart questions via an AI interface.\n\nUsers have the option to switch between all results, AI mode, images, shopping, videos, and more. There’s also the option to switch to dark mode.",
+    "source": "https://techcrunch.com/2025/09/16/google-rolls-out-new-windows-desktop-app-with-spotlight-like-search-tool/"
+  },
+  {
+    "id": "5",
+    "title": "OpenAI will apply new restrictions to ChatGPT users under 18",
+    "document": "OpenAI CEO Sam Altman announced on Tuesday a raft of new user policies, including a pledge to significantly change how ChatGPT interacts with users under the age of 18.\n\n'We prioritize safety ahead of privacy and freedom for teens,' the post reads. 'This is a new and powerful technology, and we believe minors need significant protection.'\n\nThe changes for underage users deal specifically with conversations involving sexual topics or self-harm. Under the new policy, ChatGPT will be trained to no longer engage in 'flirtatious talk' with underage users, and additional guardrails will be placed around discussions of suicide. If an underage user uses ChatGPT to imagine suicidal scenarios, the service will attempt to contact their parents or, in particularly severe cases, local police.\n\nSadly, these scenarios are not hypotheticals. OpenAI is currently facing a wrongful death lawsuit from the parents of Adam Raine, who died by suicide after months of interactions with ChatGPT. Character.AI, another consumer chatbot, is facing a similar lawsuit. While the risks are particularly urgent for underage users considering self-harm, the broader phenomenon of chatbot-fueled delusion has drawn widespread concern, particularly as consumer chatbots have become capable of more sustained and detailed interactions.\n\nAlong with the content-based restrictions, parents who register an underage user account will have the power to set 'blackout hours' in which ChatGPT is not available, a feature that was not previously available.\n\nThe new ChatGPT policies come on the same day as a Senate Judiciary Committee hearing titled 'Examining the Harm of AI Chatbots.' The hearing was announced by Sen. Josh Hawley (R-MO) in August. Adam Raine’s father is scheduled to speak at the hearing, among other guests.\n\nThe hearing will also focus on the findings of a Reuters investigation that unearthed policy documents apparently encouraging sexual conversations with underage users. Meta updated its chatbot policies in the wake of the report.",
+    "source": "https://techcrunch.com/2025/09/16/openai-will-apply-new-restrictions-to-chatgpt-users-under-18/"
+  },
+  {
+    "id": "6",
+    "title": "YouTube announces new generative AI tools for Shorts creators",
+    "document": "At its Made on YouTube live event on Tuesday, the company unveiled new generative AI tools for Shorts creators. YouTube is bringing a custom version of Google’s text-to-video generative AI model, Veo 3, to Shorts, along with a new remixing tool, an 'Edit with AI' feature, and more.\n\nThe custom version of Veo 3, called Veo 3 Fast, generates outputs with lower latency at 480p, making it easy to create video clips, YouTube says. And now users can do so with sound for the first time.\n\nThis update is rolling out in the United States, the United Kingdom, Canada, Australia, and New Zealand. YouTube plans to expand its functionality to more regions in the future. YouTube is also bringing new Veo capabilities to Shorts, including the ability to apply motion from a video to an image. For example, you could animate a still image by making the person in it do a dance from a video. The company says this is possible through technology that captures and transfers movement from one subject to another.\n\nCreators can now also use Veo to apply different styles to their videos, such as pop art or origami. Plus, creators now have the ability to add objects like characters or props with text descriptions.\n\n'As the world’s largest creative playground, YouTube is where trends are born and where you can draw inspiration from. Imagine hearing a line of dialogue that sparks an idea — a funny phrase, a memorable quote, or a one-of-a-kind sound — and you want to remix it into a new sound,' YouTube’s Director of Product, Shorts and Generative AI Creation, Dina Berrada, wrote in a blog post. 'With our new Speech to Song remixing tool, you’ll be able to do just that.'\n\nYouTube notes that the feature uses Google’s AI music model Lyria 2 to create the soundtrack. Creators will be able to add their own vibe to the song, like 'chill,' 'danceable,' or 'fun.'",
+    "source": "https://techcrunch.com/2025/09/16/youtube-announces-new-generative-ai-tools-for-shorts-creators/"
+  },
+  {
+    "id": "7",
+    "title": "YouTube to use AI to help podcasters promote themselves with clips and Shorts",
+    "document": "YouTube introduced new tools for podcasters at its Made on YouTube live event in New York, including new ways to turn video podcasts into clips and YouTube Shorts and a new feature that helps create videos for audio-only podcasters. Both will be powered by AI and will roll out in the months ahead.\n\nUsing AI technology, video podcast creators in the U.S. will be able to create clips more easily with AI suggestions, the company says. This will be available in the 'coming months,' while a feature that will transform those clips into YouTube Shorts will arrive early next year.\n\nThe addition could give YouTube more fodder to compete with rival short-form video apps, like TikTok and Instagram (Reels), while also directing users to podcasters they might find interesting on YouTube’s larger platform, driving subscriptions and engagement.\n\nMeanwhile, another new feature also available early next year will help audio podcasters turn their content into video. Using AI, these creators will be able to generate a customizable video for their podcast, the company says. However, the feature will only be available to 'select podcasters' when it launches, with a larger expansion planned for later in 2026.",
+    "source": "https://techcrunch.com/2025/09/16/youtube-to-use-ai-to-help-podcasters-promote-themselves-with-clips-and-shorts/"
+  },
+  {
+    "id": "8",
+    "title": "YouTube Music launches new tools for artists to reward fans with exclusive merch and videos",
+    "document": "During YouTube’s Made On event on Tuesday, the company announced three features coming to YouTube Music, which are designed to deepen the connection between artists and their dedicated fans.\n\nOne of the new features allows users to initiate a countdown for upcoming releases and to pre-save their favorite tracks or albums in advance. The countdown timer will be displayed on the album detail page, artist profile, and album shelf. Set to launch later this year, the feature aims to create buzz leading up to the release date and appears to be similar to a feature on Spotify called Countdown Pages. Starting early next year, artists will be able to engage with their most loyal fans by offering exclusive 'thank you' videos, similar to those delivered during rival Spotify’s year-end Wrapped experience, plus behind-the-scenes clips, and other content.\n\nThis approach aims to reward top supporters and build a more personal connection between fans and their favorite artists, the company says.",
+    "source": "https://techcrunch.com/2025/09/16/youtube-music-launches-new-tools-for-artists-to-reward-fans-with-exclusive-merch-and-videos/"
+  },
+  {
+    "id": "9",
+    "title": "YouTube unveils new ways for creators to earn with brand deals, YouTube Shopping program",
+    "document": "At its Made on YouTube event on Tuesday, the company unveiled a series of new ways for creators to earn more with brand deals and the YouTube Shopping program, which lets creators earn money by featuring and tagging products in their content. Most notably, YouTube is going to allow creators to swap out brand sponsorships in long-form videos.\n\nThe company is also introducing auto timestamps for product tags, auto tagging for eligible items mentioned in videos, and a new brand link feature for Shorts.\n\nThe new flexible approach to brand sponsorships will allow creators to dynamically insert brand segments directly into swappable slots in longer videos. This means that when a deal with a brand is complete, creators can remove the sponsorship from the video and resell the slot to another brand. YouTube will begin testing this feature with a small group of creators early next year.\n\nThe company is also going to leverage an AI-powered system to identify the optimal moment a product is mentioned and automatically display the product tag at that time. YouTube says this will capture viewer interest when it’s at its highest. Plus, the platform will begin testing the ability to automatically identify and tag all eligible products mentioned in a creator’s video later this year.\n\nAs for Shorts creators, they will soon be able to add a link to a brand’s site specifically for brand deals, making it easier for viewers to discover and buy products, while allowing creators to drive results for brand partners. Creators will be able to show advertisers how their Shorts drive traffic in a way that goes beyond traditional metrics like views and likes, YouTube says. YouTube also announced that it will soon be able to proactively suggest creators who may be a good fit for brands in its creator partnerships hub, which is a tab within Google Ads that helps brands connect with creators.",
+    "source": "https://techcrunch.com/2025/09/16/youtube-unveils-new-ways-for-creators-to-earn-with-brand-deals-youtube-shopping-program/"
+  },
+  {
+    "id": "10",
+    "title": "Google launches new protocol for agent-driven purchases",
+    "document": "Google announced a new open protocol for purchases initiated by AI agents — automated software programs that can shop and make decisions on behalf of users — with backing from more than 60 merchants and financial institutions. Called the Agent Payments Protocol (AP2), the system is meant to be interoperable between AI platforms, payment systems and vendors, providing a traceable paper trail for each transaction. In a post announcing the protocol, Google executives emphasized their commitment to openness. “We are committed to evolving this protocol in an open, collaborative process, including through standards bodies, and invite the entire payments and technology community to build this future with us,” wrote Stavan Parikh and Rao Surapaneni, who are VPs at Google and Google Cloud, respectively. The full specification for AP2 was posted to GitHub in conjunction with the announcement. The protocol is built for a future in which AI agents routinely shop for products on customers’ behalf and engage in complex real-time interactions with retailers’ AI agents. One example in Google’s post imagines a chatbot user asking their agent to shop for a bike trip, which triggers a spontaneous time-sensitive bundle offer from a bike shop’s agent. In another example, a user asks for travel and lodging for a weekend vacation, giving only the dates, location, and budget. “The agent can then interact with both airline and hotel agents, as well as online travel agencies and booking platforms,” the post explains, “and once it finds a combination that fits the budget, it can execute both cryptographically-signed bookings simultaneously.” Enabling that kind of transaction is complex, from both a technological and social standpoint. AP2 requires agents to register two separate approvals before a purchase can be made: first the “intent mandate” (essentially telling the AI, “I’m looking for a polka-dot necktie”), which enables the agent to search for a specific item and negotiate with sellers; then the “cart mandate,” which gives final approval for a purchase once a specific item has been found. The protocol also contains a provision for fully automated purchases, in which the agent is permitted to automatically generate a cart mandate once an item is found. Those circumstances require a more detailed intent mandate, specifying price limits, timing, and other rules of engagement. In either case, the goal is to maintain an auditable trail that can be reexamined in cases of fraud.",
+    "source": "https://techcrunch.com/2025/09/16/google-launches-new-protocol-for-agent-driven-purchases/"
+  },
+  {
+    "id": "11",
+    "title": "Amazon to host Prime Big Deals Day sales event on October 7 and 8",
+    "document": "Amazon is continuing its annual tradition of hosting a second Prime event of the year, called Prime Big Deals Day, in October. Following the pattern established in recent years, the company announced the event will take place on October 7-8, with sales starting at 12:01 AM PT on October 7. Amazon is betting that shoppers will embrace various AI tools during the event, such as its shopping assistant Rufus, along with visual search tools like Amazon Lens and Lens Live, which allows customers to point their cameras at any object around them and find it on the Amazon’s website. Additionally, users will be able to track deals with Amazon’s new Alexa+ conversational assistant. Leading up to the main event, Amazon is offering early deals featuring discounts on Amazon devices and Amazon brand products, deals on Kindle books, and offers on artist merch bought through Amazon Music or Amazon.com. The company is also offering exclusive benefits for Prime members, including early access to tickets for the musical Wicked: For Good; deals on fuel; McDonald’s meals through Grubhub+; and additional savings via cashback for Prime Young Adult members. Beyond the U.S., customers in Australia, Belgium, Brazil, Canada, France, Germany, Italy, Japan, the Netherlands, Poland, Singapore, Spain, Sweden, the U.S., and the UK — and for the first time in Colombia, Ireland, and Mexico — will be able to participate in deals and shop with the Big Deals Day event starting on October 7. Amazon’s first Prime Day event of 2025, held in July, was a success, with the entire retail industry clocking $24.1 billion in online sales across four days, a 30.3% year-on-year increase, according to Adobe Analytics. For the first time, more than half of these sales came from mobile devices, the report noted.",
+    "source": "https://techcrunch.com/2025/09/15/amazon-to-host-prime-big-deals-day-sales-event-on-october-7-and-8/"
+  },
+  {
+    "id": "12",
+    "title": "Snap unveils Snap OS 2.0 with native browser, WebXR support, and more",
+    "document": "Snap has unveiled the second version of its Snap OS, the software powering its AR glasses known as Snap Spectacles. The update includes a new native browser, WebXR support, and more. The launch comes as the company rolled out its fifth-generation Snap Spectacles for developers last year and plans to launch a consumer version sometime in 2026. The release also comes just ahead of Meta’s Connect conference this week, where the company is expected to reveal its latest updates in smart glasses, AI, and other technology. Snap OS 2.0 introduces a faster browser that’s easier to use, with optimized page loading speed and power usage. Users can navigate quickly with features like a new home screen with widgets and bookmarks, an updated toolbar that supports typing or speaking URLs, navigating history, and refreshing pages. Users can also resize windows similar to a laptop. Importantly, the browser now supports WebXR, enabling augmented reality experiences directly from WebXR-enabled websites. Additionally, Snap has introduced a new Spotlight Lens that overlays content onto the real world, allowing scenarios such as watching creator videos while doing household tasks. The portrait orientation of Spectacles’ field of view is designed for vertical video, letting users enjoy immersive content without looking at their phones. Spotlight can be anchored in place or set to follow the user as they move around.",
+    "source": "https://techcrunch.com/2025/09/15/snap-unveils-snap-os-2-0-with-native-browser-webxr-support-and-more/"
+  },
+  {
+    "id": "13",
+    "title": "OpenAI upgrades Codex with a new version of GPT-5",
+    "document": "OpenAI announced Monday that it’s releasing a new version of GPT-5 to its AI coding agent, Codex. The new model, called GPT-5-Codex, dynamically adjusts its thinking time, ranging from a few seconds to seven hours, depending on the coding task. This approach improves performance on agentic coding benchmarks. The model is rolling out in Codex products accessible via terminal, IDEs, GitHub, and ChatGPT for Plus, Pro, Business, Edu, and Enterprise users, with API availability planned in the future. The update strengthens Codex’s competitiveness against rivals like Claude Code, Anysphere’s Cursor, and GitHub Copilot. The AI coding market has grown rapidly, with Cursor surpassing $500 million in ARR in 2025, and Windsurf undergoing a split acquisition between Google and Cognition. OpenAI reports GPT-5-Codex outperforms GPT-5 on SWE-bench Verified and code refactoring benchmarks from large repositories. Additionally, the model was trained for code reviews, with experienced engineers finding GPT-5-Codex produced fewer incorrect comments and more impactful feedback.",
+    "source": "https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/"
+  },
+  {
+    "id": "14",
+    "title": "China says Nvidia violated antitrust regulations",
+    "document": "China’s State Administration for Market Regulation ruled that Nvidia violated the country’s antitrust regulations in connection with its $7 billion acquisition of Mellanox Technologies in 2020. Nvidia stated it complies with all laws and will continue cooperating with regulators. China has not announced penalties yet but will continue its investigation. The ruling adds strain to U.S.-China trade negotiations in Madrid, where access to Nvidia chips is a key issue. The U.S. previously restricted AI chip exports through the Biden administration’s AI Diffusion Rule, repealed in May, but licensing requirements and revenue-sharing deals remain in place. China has discouraged firms from buying Nvidia chips, and according to Nvidia’s earnings call, none of its chips have passed the new export process.",
+    "source": "https://techcrunch.com/2025/09/15/china-says-nvidia-violated-antitrust-regulations/"
+  },
+  {
+    "id": "15",
+    "title": "iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple’s hardware event",
+    "document": "Apple unveiled multiple new devices at its hardware event. The iPhone 17 received a redesign with a 6.3-inch 120 Hz display, a 48 MP ultrawide camera, and new colors (lavender, mist blue, black, white, sage). The iPhone 17 Pro models rearrange their three rear cameras into a rectangular bar and switch from titanium to aluminum. Pricing: iPhone 17 starts at $799 (256GB), Pro at $1,099, and Pro Max at $1,199. Apple also introduced the iPhone Air, its slimmest phone at 5.6 mm thick, with a 6.6-inch 120 Hz ProMotion display, eSIM-only design, priced at $999, available in black, white, sky blue, and light gold. For wearables, Apple launched the Apple Watch Series 11 ($399), Ultra 3 ($799), and SE 3 ($249). The Ultra 3 adds faster charging, 5G, satellite connectivity, and a larger display. Both Ultra 3 and Series 11 include blood pressure monitoring, while SE 3 gains an always-on display via the S10 chip. AirPods Pro 3 ($249) were also announced, featuring smaller earbuds, improved audio, heart-rate sensing, and live translation powered by Apple Intelligence.",
+    "source": "https://techcrunch.com/2025/09/14/iphone-17-iphone-air-airpods-pro-3-and-everything-else-announced-at-apples-hardware-event/5"
+  },
+  {
+    "id": "16",
+    "document": "Display:\n- iPhone 17: 6.3″ Super Retina XDR display\n- iPhone 17 Air: 6.5″ Super Retina XDR display\nSize & Weight:\n- iPhone 17: 5.89 in x 2.81 in x 0.31 in; 6.24 oz\n- iPhone 17 Air: 6.15 in x 2.94 in x 0.22 in; 5.82 oz\nProcessor:\n- iPhone 17: A19 chip\n- iPhone 17 Air: A19 Pro chip\nRear Camera:\n- iPhone 17: 48 MP Fusion Main, 48 MP Fusion Ultra Wide with .5x, 1x, 2x optical zoom\n- iPhone 17 Air: 48 MP Fusion Main with 1x, 2x optical zoom\nBattery:\n- iPhone 17: 3,692 mAh\n- iPhone 17 Air: 3,149 mAh\nResolution:\n- iPhone 17: 2,622 x 1,206 pixels (460 ppi)\n- iPhone 17 Air: 2,736 x 1,260 pixels (460 ppi)\nColors:\n- iPhone 17: black, lavender, mist blue, sage, white\n- iPhone 17 Air: sky blue, light gold, cloud white, space black\nCommon Specs:\n- Front camera: 18 MP Center Stage front camera with dual capture\n- Charging: USB-C with support for USB 2\nPrice:\n- iPhone 17: $799\n- iPhone 17 Air: $999",
+    "title": "All of the iPhone 17 models compared: iPhone 17 vs iPhone 17 Air",
+    "source": "https://techcrunch.com/2025/09/12/all-of-the-iphone-17-models-compared/"
+  },
+  {
+    "id": "17",
+    "document": "Display:\n- iPhone 17 Pro: 6.3″ Super Retina XDR display\n- iPhone 17 Pro Max: 6.9″ Super Retina XDR display\nSize & Weight:\n- iPhone 17 Pro: 5.91 in x 2.83 in x 0.34 in; 7.27 oz\n- iPhone 17 Pro Max: 6.43 in x 3.07 in x 0.34 in; 8.22 oz\nBattery:\n- iPhone 17 Pro: 4,262 mAh\n- iPhone 17 Pro Max: 5,088 mAh\nResolution:\n- iPhone 17 Pro: 2,622 x 1,206 pixels (460 ppi)\n- iPhone 17 Pro Max: 2,868 x 1,320 pixels (460 ppi)",
+    "title": "All of the iPhone 17 models compared: iPhone 17 Pro vs iPhone 17 Pro Max",
+    "source": "https://techcrunch.com/2025/09/12/all-of-the-iphone-17-models-compared/"
+  },
+  {
+    "id": "18",
+    "document": "Gmail is introducing a new “Purchases” tab that gives users an overview of upcoming package deliveries. Users can access all purchase-related emails, including past orders, in one place. Packages arriving within 24 hours will still appear on top of the inbox. This builds on Gmail’s package-tracking feature launched in 2022, allowing users to track deliveries directly from their inbox without visiting the carrier’s site. The feature is especially helpful during holidays, as 39% of planned holiday gift spending is expected between Thanksgiving and Cyber Monday (PwC, 2025). The new tab is rolling out globally on mobile and web for personal Google accounts. Additionally, Gmail is updating the Promotions category to allow sorting by “most relevant” emails and nudging users about upcoming deals. This update will roll out on mobile in the coming weeks for personal accounts.",
+    "title": "Gmail rolls out new Purchases tab and updated Promotions sorting",
+    "source": "https://techcrunch.com/2025/09/11/gmail-makes-it-easier-to-track-upcoming-package-deliveries/"
+  },
+  {
+    "id": "19",
+    "document": "Google Tables, a work-tracking tool and competitor to Airtable, is shutting down. The app will not be supported after December 16, 2025, and users are advised to export or migrate data to Google Sheets or AppSheet. Launched in 2020 from Google's Area 120 incubator, Tables aimed to make project tracking more efficient with automation. It became an official Google Cloud product in 2021 and was used for project management, IT operations, customer service tracking, CRM, recruiting, and product development. The app was created by Google employee Tim Gleason, who later became tech lead manager for NotebookLM and retired in September 2024.",
+    "title": "Google Tables to shut down on December 16, 2025",
+    "source": "https://techcrunch.com/2025/09/11/google-is-shutting-down-tables-its-airtable-rival/"
+  },
+  {
+    "id": "20",
+    "document": "Perplexity, an AI-powered search startup competing with Google, raised $200 million at a $20 billion valuation, just two months after securing $100 million at an $18 billion valuation. Founded three years ago, Perplexity has now raised $1.5 billion in total funding. Its annual recurring revenue (ARR) is approaching $200 million. The July funding round was an extension of a previous $500 million round led by Accel at a $14 billion valuation. Perplexity recently attempted to buy Google’s Chrome browser for $34.5 billion amid DOJ antitrust actions, but a federal judge ruled that Google will not have to break up its search business, keeping Chrome under Google.",
+    "title": "Perplexity raises $200M at $20B valuation",
+    "source": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/"
+  },
+  {
+    "id": "21",
+    "document": "YouTube has officially launched its multi-language audio feature for all creators after a two-year pilot. Millions of creators can now add dubbing in different languages to reach a wider audience. Initially piloted in 2023 with creators like MrBeast, Mark Rober, and Jamie Oliver, the feature uses an AI-powered auto-dubbing tool leveraging Google’s Gemini technology to replicate the creator’s tone and emotions. Testers reported that multi-language audio tracks contributed over 25% of watch time from non-primary language views, with Jamie Oliver’s channel tripling in views. YouTube has also tested multi-language thumbnails, allowing creators to display text in viewers’ preferred languages since June.",
+    "title": "YouTube’s multi-language audio feature for dubbing videos rolls out to all creators",
+    "source": "https://techcrunch.com/2025/09/10/youtubes-multi-language-audio-feature-for-dubbing-videos-rolls-out-to-all-creators/"
+  },
+  {
+    "id": "22",
+    "document": "Replit raised $250 million in its latest funding round, valuing the company at $3 billion. Founded in 2016 by Amjad Masad, Faris Masad, and Haya Odeh, Replit’s annualized revenue has grown from $2.8 million to $150 million in under a year. The company has now raised a total of about $478 million. Prysm Capital led the round, with participation from Amex Ventures and Google’s AI Futures Fund, alongside previous investors including Y Combinator, Andreessen Horowitz, Coatue, David Sacks’ Craft, and Paul Graham. Replit has partnered closely with Google Cloud, and Microsoft started offering Replit on Azure in July due to its growing popularity.",
+    "source": "https://techcrunch.com/2025/09/10/replit-hits-3b-valuation-on-150m-annualized-revenue/",
+    "title": "Replit hits $3B valuation with $150M annualized revenue"
+  },
+  {
+    "id": "23",
+    "document": "Grammarly, known for spelling, grammar, and writing tips in English, is expanding support to five more languages: Spanish, French, Portuguese, German, and Italian. The tool will offer paragraph-level rewrites for tone, style, and flow in these languages. Users can also translate text in-line in 19 languages. The multilingual writing feature is available to all free and paid users. Grammarly aims to meet user needs not only across its 500,000 integrated apps and websites but also in the languages users think, learn, and communicate in daily, said Ailian Gan, Director of Product Management.",
+    "source": "https://techcrunch.com/2025/09/10/grammarly-now-offers-spelling-and-grammar-check-for-five-more-languages/",
+    "title": "Grammarly adds multilingual writing support for five new languages"
+  },
+  {
+    "id": "23",
+    "document": "A tech writer compared the new iPhone 17 and iPhone 17 Air to decide which is a better deal. She noted that the iPhone Air has a slightly larger 6.5-inch screen and the A19 Pro chip, but its GPU is a 5-core variant, similar to the iPhone 17’s A19 chip. The iPhone 17 offers better battery life with 30 hours of video playtime versus the Air’s 27 hours. While the Air is lighter and slightly bigger, upgrading with a battery pack to match the 17’s battery life compromises its lightness. The writer prefers practicality over novelty and concludes that the iPhone 17 offers better overall value than the iPhone Air, especially for users who don’t need Pro-level performance or filmmaking features.",
+    "source": "https://techcrunch.com/2025/09/09/i-want-to-love-apples-new-iphone-air-but-the-iphone-17-is-a-better-deal/",
+    "title": "iPhone 17 vs iPhone 17 Air: Practicality beats novelty"
+  },
+  {
+    "id": "24",
+    "document": "The iPhone Air, announced at Apple’s hardware event, is thinner and lighter at 5.6 mm with a 6.5-inch display. While sleek, it is currently less capable than the base iPhone 17 in some areas: battery lasts up to 27 hours versus 30 hours on the 17, it lacks an ultrawide camera and macro photography, has a 5-core GPU in its A19 Pro chip (versus 6-core GPU in the Pro), a single speaker, and is eSIM-only. Priced at $999, it is more expensive than the 17 ($799) and only $100 cheaper than the 17 Pro. Despite limitations, the Air hints at future iPhone hardware design, including foldables. It incorporates Apple-designed chips, including the A19 Pro, N1 wireless chip, and C1X modem, which is faster and 30% more energy-efficient than the 16 Pro modem. Apple uses this platform to experiment with performance, battery life, and AI capabilities, though battery life remains a limiting factor for this debut Air model.",
+    "source": "https://techcrunch.com/2025/09/09/the-iphone-air-is-a-hint-at-the-iphones-future-which-could-include-foldables/",
+    "title": "iPhone Air hints at future design despite current limitations"
+  },
+  {
+    "id": "25",
+    "document": "Apple announced that the new iPhone 17 Air will be eSIM-only worldwide. The device’s 5.5 mm-thick design removes the physical SIM tray to save space while maintaining advanced technology. Apple first introduced eSIM for U.S. iPhones in 2022 and describes it as easier to use, more secure, and convenient for travel compared to traditional SIM cards. eSIM has now become an industry standard, according to Apple.",
+    "source": "https://techcrunch.com/2025/09/09/iphone-17-air-will-be-esim-only-worldwide/",
+    "title": "iPhone 17 Air will be eSIM-only worldwide"
+  },
+  {
+    "id": "26",
+    "document": "Signal has introduced free and paid backup plans for chats. The free tier provides 100MB of storage for text messages and the last 45 days of media. The paid plan offers full media backups with up to 100GB of storage. Previously, Signal did not allow cloud backups, only phone-to-phone transfers. Backups are secured using zero-knowledge technology and are unlocked with a 64-character recovery key generated on the device. Users can enable daily backups from the app’s Settings. This is Signal’s first paid feature, designed to cover storage costs while preserving privacy. In comparison, WhatsApp offers optional end-to-end encrypted cloud backups.",
+    "source": "https://techcrunch.com/2025/09/08/signal-introduces-free-and-paid-backup-plans-for-your-chats/",
+    "title": "Signal introduces free and paid chat backups with end-to-end security"
+  },
+  {
+    "id": "27",
+    "document": "Google has expanded AI Mode — its AI-powered Search experience — to five new languages: Hindi, Indonesian, Japanese, Korean, and Brazilian Portuguese. Previously limited to English, AI Mode lets users ask complex questions in their preferred language and explore the web more deeply. Launched as an experiment for Google One AI Premium subscribers in March, AI Mode uses a customized Gemini 2.5 model with multimodal and reasoning capabilities. In August, agentic features were introduced, allowing tasks like restaurant reservations, with local services and event ticket bookings planned. AI Mode is accessible via a dedicated tab on search results or a button in the search bar, and Google is working toward making it the default experience. The Ultra tier, offering advanced features, costs $249.99/month. Critics have raised concerns about AI search affecting website traffic, but Google denies this impact.",
+    "source": "https://techcrunch.com/2025/09/08/googles-ai-mode-adds-5-new-languages-including-hindi-japanese-and-korean/",
+    "title": "Google AI Mode expands to five new languages including Hindi, Japanese, and Korean"
+  },
+  {
+    "id": "28",
+    "document": "Amazon Music has launched a new AI-powered feature called \"Weekly Vibe,\" which generates personalized playlists every Monday for U.S. users across all subscription tiers. The feature analyzes users’ recent listening habits to reflect evolving musical moods and interests, suggesting new and similar music to enhance discovery. Playlists are accessible under \"Library > Made for You,\" each with a unique title, description, and theme, such as hip-hop or pop. Users can share, post, and save playlists. Weekly Vibe builds on the beta feature \"Maestro,\" which allowed AI-generated playlists from mood prompts or emojis, continuing Amazon Music’s effort to compete with Spotify’s AI DJ.",
+    "source": "https://techcrunch.com/2025/09/08/amazon-musics-new-ai-feature-generates-personalized-playlists-every-monday/",
+    "title": "Amazon Music launches Weekly Vibe AI playlists for personalized listening"
+  },
+  {
+    "id": "29",
+    "document": "In 2025, more than 10 European startups became unicorns. Key highlights include:\n\n- September: IQM (Finland) raised $300M Series B for quantum computing and cloud platform, total $600M raised; Framer (no-code website builder) raised $100M Series D, valued at $2B.\n- July: Lovable (Sweden, AI vibe-coding) raised $200M Series A at $1.8B valuation; Fuse Energy (UK, renewable energy) surpassed $1B valuation.\n- June: Mubi (film-streaming, $100M round) valued at $1B; Zama (France, homomorphic encryption) raised $57M Series B, valuation >$1B; Isar Aerospace (Germany, space startup) became unicorn via €150M convertible bond.\n- May: Tekever (Portugal, dual-use drones) exceeded £1B valuation; Quantum Systems (Germany, dual-use drones) raised €160M Series C.\n- March: Isomorphic Labs (London, AI drug discovery) raised $600M, becoming a unicorn.\n- February: Tines (Dublin, AI workflows) raised $125M Series C, valuation $1.125B.\n- January: Verdiva Bio (London, biotech) raised $410M Series A, achieving unicorn status within a year of launch.",
+    "source": "https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/",
+    "title": "European startups achieving unicorn status in 2025"
+  },
+  {
+    "id": "30",
+    "document": "OpenAI has hired the team behind Alex, a Y Combinator-backed coding assistant for Xcode. Founded in 2024 by Daniel Edrisian, Alex integrated AI models into Apple’s Xcode IDE for iOS and MacOS development. The startup’s team is joining OpenAI’s Codex division, which develops AI coding agents. Existing Alex users will continue to be supported, but the app will no longer be downloadable after October 1, and no new features will be added. The Alex team had three employees, though it’s unclear if all are joining OpenAI.",
+    "source": "https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/",
+    "title": "OpenAI acqui-hires Alex team to strengthen Codex AI coding tools"
+  },
+  {
+    "id": "31",
+    "document": "OpenAI is developing an AI-powered hiring platform called the OpenAI Jobs Platform, expected to launch by mid-2026. The platform will connect businesses and employees, helping match company needs with worker skills, including a dedicated track for small businesses and local governments. CEO of Applications Fidji Simo will oversee this initiative along with other OpenAI applications, such as a potential browser and social media app. The platform puts OpenAI in competition with LinkedIn, owned by Microsoft and co-founded by early OpenAI investor Reid Hoffman. OpenAI also plans to offer AI fluency certifications through its OpenAI Academy, piloting the program in late 2025. Collaborations include Walmart, aiming to certify 10 million Americans by 2030 as part of the White House AI literacy initiative. OpenAI acknowledges AI’s potential to disrupt traditional jobs but aims to prepare workers for the AI economy.",
+    "source": "https://techcrunch.com/2025/09/04/openai-announces-ai-powered-hiring-platform-to-take-on-linkedin/",
+    "title": "OpenAI announces AI-powered hiring platform to rival LinkedIn"
+  },
+  {
+    "id": "32",
+    "document": "DuckDuckGo has updated its subscription plan to include access to advanced AI models via Duck.ai. The free Duck.ai chatbot provides models such as Anthropic’s Claude 3.5 Haiku, Meta’s Llama 4 Scout, Mistral AI’s Mistral Small 3 24B, and OpenAI’s GPT-4o mini. With the $9.99/month subscription, users can access larger models including OpenAI’s GPT-4o and GPT-5, Anthropic’s Claude Sonnet 4, and Meta’s Llama Maverick. The subscription emphasizes privacy while allowing users to leverage advanced AI capabilities for tasks requiring context, detailed instructions, and nuanced responses. DuckDuckGo plans to offer higher-tier subscriptions with even more advanced models in the future.",
+    "source": "https://techcrunch.com/2025/09/04/duckduckgo-adds-access-to-advanced-models-to-it-subscription-plan/",
+    "title": "DuckDuckGo adds access to advanced AI models in subscription plan"
+  },
+  {
+    "id": "33",
+    "document": "Fizz, the college social app, is expanding into grocery delivery through a partnership with Gopuff. Students can now order groceries and late-night snacks directly within the Fizz app, with delivery in as fast as 15 minutes. The app, available at over 620 U.S. campuses with 27 million posts shared, already allows users to connect anonymously and buy/sell items via the Fizz Marketplace. The Fizz Store offers curated grocery collections like Gym, Study Fuel, and Rush bags. CEO Teddy Solomon emphasized that the feature extends Fizz’s core social experience while leveraging Gopuff’s fast delivery and campus presence.",
+    "source": "https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/",
+    "title": "College social app Fizz expands into grocery delivery"
+  },
+  {
+    "id": "34",
+    "document": "OpenAI plans to route sensitive conversations to reasoning models like GPT-5 and introduce parental controls within the next month. This comes after safety incidents where ChatGPT failed to detect signs of mental distress, including the suicides of Adam Raine and Stein-Erik Soelberg. OpenAI’s GPT-5-thinking and o3 models are designed to spend more time reasoning and resist adversarial prompts. Parental controls will allow parents to link their teen’s account, enforce age-appropriate model behavior, disable memory and chat history, and receive notifications if the system detects acute distress. The update builds on Study Mode, which encourages students to think critically rather than rely on ChatGPT for assignments.",
+    "source": "https://techcrunch.com/2025/09/02/openai-to-route-sensitive-conversations-to-gpt-5-introduce-parental-controls/",
+    "title": "OpenAI to route sensitive conversations to GPT-5, introduce parental controls"
+  },
+  {
+    "id": "35",
+    "document": "Amazon launched Lens Live, an AI-powered upgrade to its Amazon Lens visual shopping tool. Lens Live lets users point their phones at real-world objects to see matching products in a swipeable carousel, integrating with Amazon’s AI shopping assistant, Rufus, for product insights. The feature allows adding items to the cart or wish list directly and supports comparison shopping in stores. Lens Live runs on AWS using Amazon SageMaker for machine learning at scale and Amazon OpenSearch for data handling. It complements Amazon’s other AI shopping tools, including AI guides, AI-enhanced reviews, personalized prompts, AI product summaries, and AI-powered fit tools.",
+    "source": "https://techcrunch.com/2025/09/02/amazon-launches-lens-live-an-ai-powered-shopping-tool-for-use-in-the-real-world/",
+    "title": "Amazon launches Lens Live, an AI-powered shopping tool for use in the real world"
+  },
+  {
+    "id": "36",
+    "document": "OpenAI announced it will acquire product testing startup Statsig for $1.1 billion in an all-stock deal. Statsig founder Vijaye Raji joins OpenAI as CTO of Applications, reporting to Fidji Simo, CEO of Applications. Raji will lead product engineering for ChatGPT, Codex, and future OpenAI applications, leveraging Statsig's experimentation platform to accelerate development. OpenAI also announced leadership changes: Kevin Weil becomes VP of 'OpenAI for Science' to build AI-powered scientific tools, and Srinivas Narayanan becomes CTO of B2B applications. Statsig will continue operating independently from its Seattle office, and the acquisition is pending regulatory review.",
+    "source": "https://techcrunch.com/2025/09/02/openai-acquires-product-testing-startup-statsig-and-shakes-up-its-leadership-team/",
+    "title": "OpenAI acquires product testing startup Statsig and shakes up its leadership team"
+  },
+  {
+    "id": "37",
+    "document": "AI startup Anthropic raised a $13 billion Series F round at a $183 billion post-money valuation. The funding, co-led by Iconiq, Fidelity Management & Research, and Lightspeed Venture Partners, will support enterprise adoption, safety research, and international expansion. Other investors include Altimeter, Baillie Gifford, BlackRock, Blackstone, Coatue, D1 Capital Partners, Insight Partners, Ontario Teachers’ Pension Plan, and Qatar Investment Authority. Anthropic’s annual recurring revenue grew from $1 billion to $5 billion in 2025, serving over 300,000 business customers, with large accounts growing nearly 7x. Its Claude Code vibe-coding product generates over $500 million in run-rate revenue, with usage increasing more than 10x in three months.",
+    "source": "https://techcrunch.com/2025/09/02/anthropic-raises-13b-series-f-at-183b-valuation/",
+    "title": "Anthropic raises $13B Series F at $183B valuation"
+  },
+  {
+    "id": "38",
+    "document": "YouTuber MrBeast plans to launch a mobile phone company reportedly in 2026, according to a leaked investor deck seen by Business Insider. The venture will operate as a mobile virtual network operator (MVNO), using existing networks from major carriers like AT&T, T-Mobile, or Verizon. This approach allows affordable rates without building new infrastructure. The move aligns with MrBeast’s broader brand expansion, which includes food companies Feastables and Lunchly, and a toy line. While Feastables generated $250 million in sales and $20 million in profit last year, his media business lost nearly $80 million, despite having around 430 million YouTube subscribers.",
+    "source": "https://techcrunch.com/2025/09/02/mrbeast-reportedly-plans-to-launch-a-phone-company/",
+    "title": "MrBeast reportedly plans to launch a phone company"
+  },
+  {
+    "id": "39",
+    "document": "Indian e-commerce startup Citymall, focused on budget grocery delivery for tier 2 and tier 3 towns, raised $47 million in a Series D round led by Accel, with participation from existing investors including WaterBridge Ventures, Citius, General Catalyst, Elevation Capital, Norwest Venture Partners, and Jungle Ventures. The company’s valuation remains at $320 million, flat since its $75 million Series C three years ago. Citymall targets value-conscious customers who make planned grocery purchases rather than relying on ultra-fast delivery services like Blinkit, Zepto, Swiggy Instamart, and BigBasket. Its app offers about half the SKUs of quick-commerce apps but double that of offline value stores.",
+    "source": "https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/",
+    "title": "Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants"
+  },
+  {
+    "id": "40",
+    "document": "Commonwealth Fusion Systems (CFS) has raised nearly $3B, including an $863M round in August. TAE Technologies, founded in 1998, has raised $1.79B, including $150M in June from investors such as Google, Chevron, and New Enterprise. Helion, based in Everett, Washington, raised $425M in January 2025 and has a total of $1.03B raised, with investors like Sam Altman, Reid Hoffman, KKR, and BlackRock. Pacific Fusion raised $900M Series A for its inertial confinement fusion approach using electromagnetic pulses. Shine Technologies focuses on neutron testing and medical isotopes, raising $778M from investors including Energy Ventures Group and Koch Disruptive Technologies. General Fusion, based in Richmond, Canada, has raised $462.53M using magnetized target fusion, backed by Jeff Bezos, Temasek, BDC Capital, and Chrysalix Venture Capital. Zap Energy, also in Everett, uses electric current to compress plasma and has raised $327M, with investors including Bill Gates’ Breakthrough Energy Ventures, DCVC, Chevron Technology Ventures, and Lowercarbon.",
+    "source": "https://techcrunch.com/2025/09/01/every-fusion-startup-that-has-raised-over-100m/",
+    "title": "Every fusion startup that has raised over $100M"
+  },
+  {
+    "id": "41",
+    "document": "Taco Bell is re-evaluating its use of AI at drive-throughs after rolling out voice AI-powered ordering at over 500 locations. Some viral incidents, like a customer ordering 18,000 water cups to bypass the AI, highlighted issues. Chief Digital and Technology Officer Dane Matthews said experiences are mixed: sometimes the AI performs well, other times it fails. The company is considering giving franchisees flexibility, using AI selectively, and having humans handle orders during busy periods. Staff will be coached to monitor AI and intervene as needed.",
+    "source": "https://techcrunch.com/2025/08/30/taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through/",
+    "title": "Taco Bell is having second thoughts about relying on AI at the drive-through"
+  },
+  {
+    "id": "42",
+    "document": "WhatsApp fixed a critical security bug in its iOS and Mac apps, tracked as CVE-2025-55177, which was being exploited in conjunction with an iOS/Mac flaw CVE-2025-43300 to hack specific targeted Apple users. The attack was a zero-click exploit, meaning victims did not need to interact with the message to be compromised. Dozens of users were affected, and attackers could steal device data including messages. Meta confirmed the flaw was patched weeks ago and fewer than 200 users were notified. The attackers or spyware vendors behind the campaign remain unidentified. This follows prior WhatsApp-targeted spyware campaigns, including NSO Group's Pegasus attack and a campaign in Italy.",
+    "source": "https://techcrunch.com/2025/08/29/whatsapp-fixes-zero-click-bug-used-to-hack-apple-users-with-spyware/",
+    "title": "WhatsApp fixes ‘zero-click’ bug used to hack Apple users with spyware"
+  },
+  {
+    "id": "43",
+    "document": "Cisco: 221 jobs, Restaurant365: 100 jobs, Oracle: 101 + 161 jobs, F5: 106 jobs, Peloton: 6% workforce, Kaltura: 70 jobs, Yotpo: 200 jobs, Windsurf: 30 jobs, Wondery: 100 jobs, Atlassian: 150 jobs",
+    "title": "Tech Layoffs Batch 1",
+    "source": "https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/"
+  },
+  {
+    "id": "44",
+    "document": "Consensys: 47 jobs, Zeen: shutting down, Scale AI: 200 jobs, Lenovo: 100+ jobs, Intel: 2,400 jobs, Indeed + Glassdoor: 1,300 jobs, Eigen Labs: 29 jobs, Microsoft: 9,000 jobs, ByteDance: 65 jobs, TomTom: 300 jobs",
+    "title": "Tech Layoffs Batch 2",
+    "source": "https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/"
+  },
+  {
+    "id": "45",
+    "document": "Rivian: 140 jobs, Bumble: 240 jobs, Klue: 85 jobs, Google: 25% of smart TV division, Intel Foundry: 15-20%, Playtika: 90 jobs, Airtime: 25 jobs, Microsoft: 6,500+ jobs, Hims & Hers: 68 jobs, Amazon Devices: 100 jobs",
+    "title": "Tech Layoffs Batch 3",
+    "source": "https://techcrunch.com/2025/08/29/tech-layoffs-2025-list/"
+  },
+  {
+    "id": "46",
+    "document": "Vocal Image, an Estonia-based startup, is using AI to help people improve voice and communication skills. The app has 4 million downloads and 160,000 active users. CEO Nick Lahoika, who struggled with speaking anxiety and unclear diction in school, co-founded the startup inspired by his own journey. Co-founder and CTO Mikalai Karaliou helped implement AI-powered coaching that provides automated feedback and personalized tips. The app focuses on professional and leadership skills, public speaking, and self-confidence, including support for LGBTQ users. The founders relocated from Belarus to Estonia due to political repression.",
+    "source": "https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/",
+    "title": "Vocal Image is using AI to help people communicate better"
+  },
+  {
+    "id": "47",
+    "document": "Commonwealth Fusion Systems (CFS), a Massachusetts-based fusion power startup, raised $863 million from investors including Nvidia, Google, and Breakthrough Energy Ventures. CEO Bob Mumgaard said the funding aims to accelerate fusion as a commercial industrial endeavor. CFS has raised nearly $3 billion to date, the most of any fusion startup. The company is building a prototype reactor called Sparc in a Boston suburb, aiming to achieve scientific breakeven in 2027, producing more energy than required to ignite the fusion reaction. While not designed to sell power, Sparc is crucial to the company’s success.",
+    "title": "Nvidia, Google, and Bill Gates help Commonwealth Fusion Systems raise $863M",
+    "source": "https://techcrunch.com/2025/08/28/nvidia-google-and-bill-gates-help-commonwealth-fusion-systems-raise-863m/"
+  },
+  {
+    "id": "48",
+    "document": "Threads is testing a new feature that allows users to share long-form text on the platform. The 'text attachment' feature lets users attach a block of text to a post instead of creating multiple posts. Users can share in-depth thoughts, news snippets, book excerpts, and more. The feature is currently available to all users on iOS. Unlike competitor X, which allows multimedia in its long-form articles and is limited to Premium users, Threads only supports text for now. Future updates may expand functionality.",
+    "title": "Threads Tests Long-Form Text Sharing Feature",
+    "source": "https://techcrunch.com/2025/08/28/threads-tests-a-way-to-share-long-form-text-on-the-platform/"
+  },
+  {
+    "id": "49",
+    "document": "Framer, a no-code website builder with over 500,000 monthly active users, has reached a $2 billion valuation after a $100 million Series D funding round led by Meritech and Atomico. The platform supports dynamic websites with analytics and enterprise security features, aiming to help companies run their entire website without developer support. Founded in Amsterdam by Koen Bok and Jorn van Dijk, Framer focuses on designers and enterprise clients, including Miro, Perplexity, Scale AI, and 40% of Y Combinator's latest batch. The company previously raised a $27 million Series C in 2023.",
+    "title": "No-Code Website Builder Framer Hits $2B Valuation",
+    "source": "https://techcrunch.com/2025/08/28/no-code-website-builder-framer-reaches-2b-valuation/"
+  },
+  {
+    "id": "50",
+    "document": "MathGPT.ai, an AI platform launched last year, aims to provide a 'cheat-proof' tutor for college students and a teaching assistant for professors. After a successful pilot at 30 U.S. colleges, it is expanding to over 50 institutions, including Penn State, Tufts, and Liberty University. The AI uses Socratic questioning to guide students without giving direct answers, promoting critical thinking. For instructors, it offers auto-generated questions, grading, and classroom management features. New capabilities include controlling when students can interact with the AI, limiting attempts per question, unlimited practice questions, and optional submission of images for authenticity verification.",
+    "title": "MathGPT.ai Expands to Over 50 Institutions as Anti-Cheating AI Tutor",
+    "source": "https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/"
+  },
+  {
+    "id": "51",
+    "document": "Swedish vibe-coding startup Lovable is attracting high investor interest, with unsolicited offers valuing the company at over $4 billion. The startup had recently announced a $200 million funding round at a $1.8 billion valuation led by Accel. CEO Anton Osika is not currently engaging with new investment offers. Lovable has quickly grown, surpassing $100 million in annual recurring revenue and enabling more than 10 million projects since its launch nine months ago. The company's rapid rise follows strong investor interest in vibe-coding startups, including Cursor-maker Anysphere, which raised $900 million in May.",
+    "title": "Investors Flock to Swedish Startup Lovable Amid $4B Valuation Buzz",
+    "source": "https://techcrunch.com/2025/08/28/investors-are-loving-lovable/"
+  }
+]
