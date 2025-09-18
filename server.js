@@ -2,8 +2,8 @@ const express = require("express");
 const cors=require("cors");
 require('dotenv').config();
 const { GoogleGenerativeAI } = require("@google/generative-ai");
-const { getChatSession, setChatSession, deleteChatSession } = require("./utils/chat/redisClient.utils");
-const { queryPinecone } = require("./utils/chat/pinecone.utils");
+const { getChatSession, setChatSession, deleteChatSession } = require("./services/redisClient.js");
+const { queryPinecone } = require("./services/pinecone.js");
 const CONSTANSTS = require("./constants/constants.js");
 
 const app = express();
@@ -42,7 +42,6 @@ app.post("/api/chat", async (req, res) => {
       chat = model.startChat({
         history,
         generationConfig: {
-          maxOutputTokens: 500,
           temperature: 0.7,
         },
       });
@@ -108,6 +107,13 @@ app.delete("/api/redis/:id",async(req,res)=>{
     console.error("�� Error:", err);
     res.status(500).json({ error: "Failed to remove chat session" });
   }
+})
+
+
+app.get("/health", (req, res) => {
+  setTimeout(() => {
+    res.json({ status: "Server is running" });
+  }, 4000); // Simulate a slow server by delaying the response by 1 second
 })
 
 const PORT = process.env.PORT || 5000;

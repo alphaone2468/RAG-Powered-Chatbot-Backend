@@ -1,5 +1,5 @@
 const { createClient } = require('redis');
-const CONSTANSTS = require('../../constants/constants');
+const CONSTANSTS = require('../constants/constants');
 
 const client = createClient({
   url: process.env.REDIS_URL,
